@@ -108,17 +108,17 @@ bin/dev
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+<!-- AUTHOR -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
-👤 **Ishpaul Sing**
+👤 **Nonhlanhla Mndebele**
 
-- GitHub: [@ishpaul777](https://github.com/ishpaul777)
-- Twitter: [@ishpaul777](https://twitter.com/ishpaul777)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ishpaul777)
+- GitHub: [@29td](https://github.com/29td)
+- Twitter: [@NonhlanhlaMndeb6](https://twitter.com/nonhlanhlaMndeb6)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/nonhlanhla-mndebele)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
